@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/192.168.4.100/:set*",
+        "destination": "http://192.168.4.100/:set*"
+      }
+    ]
+}  
